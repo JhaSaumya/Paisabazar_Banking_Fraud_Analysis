@@ -55,3 +55,6 @@ To run this project, you need to have Python and the required libraries installe
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+## Link of the explanation video:-
+https://youtu.be/0x4X3xLO-MU?si=Q4VUywkKEhXCSL1I
